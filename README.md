@@ -3,10 +3,10 @@ Here you can find some encoding and decoding python scripts to run them directly
 
 Run this command-line in your terminal : python3 <file-name.py> '<text-to-enc/dec>'
 
-(Note: 
+Note: 
 
-      -the single quotes used to get the full string even if it contains spaces
-       -if you want to use double quotes instead, make sure to use the "\" before every special character)
+      -the single quotes used to get the full string even if it contains spaces.
+       -if you want to use double quotes instead, make sure to use the "\" before every special character.
 
 Exmample : python3 Base64ToAscii.py 'SGVsbG8sIFdvcmxkIQ'
 >>>The output will be : Hello, World!
