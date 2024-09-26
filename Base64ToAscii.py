@@ -16,6 +16,8 @@ if len(sys.argv) < 2:
 
 seq = sys.argv[1]
 
+seq = seq.rstrip("=")
+
 ##############################################################################################################################
 
 #Get the ascii num of every character of the base64 string
