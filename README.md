@@ -5,9 +5,12 @@ Run this command-line in your terminal : python3 <file-name.py> '<text-to-enc/de
 
 Note: 
 
-      -the single quotes used to get the full string even if it contains spaces.
-       -if you want to use double quotes instead, make sure to use the "\" before every special character.
+the single quotes used to get the full string even if it contains spaces.
+if you want to use double quotes instead, make sure to use the "\" before every special character.
 
-Exmample : python3 Base64ToAscii.py 'SGVsbG8sIFdvcmxkIQ'
+Exmample : 
+<code>
+python3 Base64ToAscii.py 'SGVsbG8sIFdvcmxkIQ'
+</code>
 >>>The output will be : Hello, World!
 
