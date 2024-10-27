@@ -9,8 +9,8 @@ the single quotes used to get the full string even if it contains spaces.
 if you want to use double quotes instead, make sure to use the "\" before every special character.
 
 Exmample : 
-<code>
+```bash
 python3 Base64ToAscii.py 'SGVsbG8sIFdvcmxkIQ'
-</code>
+```
 >>>The output will be : Hello, World!
 
