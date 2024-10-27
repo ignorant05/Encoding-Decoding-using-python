@@ -10,7 +10,7 @@ if you want to use double quotes instead, make sure to use the "\" before every 
 
 Exmample : 
 ```bash
-$python3 Base64ToAscii.py 'SGVsbG8sIFdvcmxkIQ'
+python3 Base64ToAscii.py 'SGVsbG8sIFdvcmxkIQ'
 ```
 >>>The output will be : Hello, World!
 
